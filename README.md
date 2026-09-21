@@ -107,5 +107,5 @@ Learning: Built while learning Python and game development
 
 ## 📜 License
 
-This project is currently for learning and personal use.
+MIT LICENSE
 
