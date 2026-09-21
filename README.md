@@ -32,7 +32,7 @@ Make sure Python is installed on your computer.
 Clone this repository or download the files.
 
 ```bash
-git clone YOUR-REPOSITORY-LINK
+git clone https://github.com/SaiyaoYinIsNiuBi/py-turtle-simulator.git
 ```
 
 ### 3. Run the program
