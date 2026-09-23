@@ -65,7 +65,7 @@ def wake_up(x, y):
     programmer.hideturtle()
     zzz.hideturtle()
     # Put ALL your house code below this line
-    q.goto(150, 125)
+    q.goto(125, 125)
     q.onclick(wake_up)
     # turtle bed
     l = Turtle()
