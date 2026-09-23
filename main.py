@@ -319,11 +319,6 @@ onkeypress(press_d, "d")
 onkeyrelease(release_d, "d")
 move()
 q.onclick(wake_up)
-# mutingshan nilailema
-# 你个沟是一赛要 我tm进去那死乌龟就睡觉 让我点他都不起然后程序就关了 你写啥呢
-#你他妈逼写个done（）不就完事了吗（记得copy进你的死活idle里头, 查看issues（那个做level的） 用WASD动， 把输入法调成英文（要不然动不了））， 我草我今天吃火鸡面又放太多酱了，都快辣晕我了
-# 台词翻译：唤醒乌龟及开始游戏 点击唤醒乌龟        
-#2026/09/16 添
 done()
 
 
